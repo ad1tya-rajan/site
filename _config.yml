@@ -10,7 +10,7 @@ author:
   email: rajan9@illinois.edu # Replace with your email
   github: https://github.com/ad1tya-rajan
   linkedin: https://www.linkedin.com/in/aditya-rajan-b0a668336/ # Replace with your LinkedIn URL
-  #headshot: /images/headshot.jpg # Path to your headshot image
+  headshot: /images/headshot.jpg # Path to your headshot image
 
 # Theme settings
 theme: minima # You can use other Jekyll themes from https://pages.github.com/themes/
