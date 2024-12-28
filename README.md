@@ -25,7 +25,7 @@
   Developed an interactive visualization tool for A* Search Pathfinding Algorithm in Python
   Recorded mouse events & built responsive UI elements with the Pygame library
 
-  ![Astar](images/Astar.png)
+  ![Astar](images/AStar.png)
 ---
 
 ## Skills
