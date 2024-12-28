@@ -1,11 +1,9 @@
-# Aditya Rajan
-
 ## About Me
 
-Hello! I’m Aditya, a sophomore at UIUC studying Statistics & CS. I'm passionate about building intelligent systems, solving complex data problems, and learning about the applications of AI/ML in medicine and biology.
+Hello! I’m Aditya, a sophomore at UIUC studying Statistics & CS. I'm passionate about building intelligent systems, solving complex data problems, and learning about the applications of AI/ML in medicine and biology. 
 
 ## Education
-- B.S. Statistics and Computer Science, University of Illinois at Urbana-Champaign (_Expected May 2026_)
+B.S. Statistics and Computer Science, University of Illinois at Urbana-Champaign (_Expected May 2026_)
 
 ## Work Experience
 **ML Intern @ Madhya Pradesh State Electronics Development Corp. (_May 2024 - June 2024_)**
@@ -16,20 +14,20 @@ Hello! I’m Aditya, a sophomore at UIUC studying Statistics & CS. I'm passionat
 
 ## Projects
 
-- [**Ferric - Network Port Scanning CLI Tool**](https://github.com/ad1tya-rajan/Rust-Ferric-Port-Scanner)
-  
-  - Created a user-oriented, nmap-like CLI tool that scans network ports (TCP, HTTP, etc.) in Rust
-  - Implemented multithreading, asynchronous code, logging & error handling for optimization
-  - Analyzed Rust networking documentation, crate management & production methods
-  - Understood fundamentals of networking & cybersecurity applications
+[**Ferric - Network Port Scanning CLI Tool**](https://github.com/ad1tya-rajan/Rust-Ferric-Port-Scanner)
+
+- Created a user-oriented, nmap-like CLI tool that scans network ports (TCP, HTTP, etc.) in Rust
+- Implemented multithreading, asynchronous code, logging & error handling for optimization
+- Analyzed Rust networking documentation, crate management & production methods
+- Understood fundamentals of networking & cybersecurity applications
 
   ![Ferric](images/Ferric.png)
 
-- [**A-Star Search Algorithm Visualizer**](https://github.com/ad1tya-rajan/Rust-Ferric-Port-Scanner)
+[**A-Star Search Algorithm Visualizer**](https://github.com/ad1tya-rajan/Rust-Ferric-Port-Scanner)
   
-  - Developed an interactive visualization tool for A* Search Pathfinding Algorithm in Python
-  - Implemented A* Graph Traversal and Search in Python to find the Single-Source Shortest Path (SSSP) in a user-generated maze-like graph
-  - Recorded mouse events & built responsive UI elements with the Pygame library
+- Developed an interactive visualization tool for A* Search Pathfinding Algorithm in Python
+- Implemented A* Graph Traversal and Search in Python to find the Single-Source Shortest Path (SSSP) in a user-generated maze-like graph
+- Recorded mouse events & built responsive UI elements with the Pygame library
 
   ![Astar](images/AStar.png)
 ---
