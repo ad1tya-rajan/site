@@ -1,0 +1,23 @@
+# Site settings
+title: Aditya Rajan's Portfolio
+description: A portfolio showcasing my projects, skills, and interests.
+baseurl: "" # Leave this blank unless your site is in a subdirectory
+url: "https://adityarajan.github.io" # Replace with your GitHub Pages URL
+
+# Author details
+author:
+  name: Aditya Rajan
+  email: rajan9@illinois.edu # Replace with your email
+  github: https://github.com/ad1tya-rajan
+  linkedin: https://www.linkedin.com/in/aditya-rajan-b0a668336/ # Replace with your LinkedIn URL
+  #headshot: /images/headshot.jpg # Path to your headshot image
+
+# Theme settings
+theme: minima # You can use other Jekyll themes from https://pages.github.com/themes/
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Additional configuration
+markdown: kramdown
+highlighter: rouge
