@@ -13,7 +13,8 @@
 
 ## Projects
 
-- [**Ferric - Network Port Scanning CLI Tool**](https://github.com/ad1tya-rajan/Rust-Ferric-Port-Scanner)  
+- [**Ferric - Network Port Scanning CLI Tool**](https://github.com/ad1tya-rajan/Rust-Ferric-Port-Scanner)
+  
   Created a user-oriented, nmap-like CLI tool that scans network ports (TCP, HTTP, etc.) in Rust
   Implemented multithreading, asynchronous code, logging & error handling for optimization
   Analyzed Rust networking documentation, crate management & production methods
@@ -22,6 +23,7 @@
   ![Ferric](images/Ferric.png)
 
 - [**A-Star Search Algorithm Visualizer**](https://github.com/ad1tya-rajan/Rust-Ferric-Port-Scanner)
+  
   Developed an interactive visualization tool for A* Search Pathfinding Algorithm in Python
   Recorded mouse events & built responsive UI elements with the Pygame library
 
