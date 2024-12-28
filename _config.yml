@@ -13,7 +13,7 @@ author:
   headshot: /images/headshot.jpg # Path to your headshot image
 
 # Theme settings
-theme: minima # You can use other Jekyll themes from https://pages.github.com/themes/
+theme: jekyll-theme-minimal # You can use other Jekyll themes from https://pages.github.com/themes/
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
