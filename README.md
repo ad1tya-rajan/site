@@ -1,24 +1,17 @@
-### Statistics & Computer Science | AI/ML Enthusiast | Information Security
+# Aspiring Data Scientist
 
-Welcome to my portfolio! I’m a student passionate about building intelligent systems, solving complex data science problems, and learning more about AI/ML. Below, you’ll find my recent projects and ways to connect with me.
+#### Technical Skills: Python, SQL, AWS, C++, Rust
 
----
+## Education
+- B.S. Statistics and Computer Science, University of Illinois at Urbana-Champaign (_Expected May 2026_)
 
-## About Me
-
-![Headshot](/images/headshot.jpg)
-
-Hello! I’m Aditya, and I am currently studying Statistics & Computer Science. I have a strong mathematical foundation and experience in:
-
-- **AI/ML**: Building machine learning models using PyTorch and TensorFlow.
-- **Data Science**: Working with large datasets, visualization, and analysis.
-- **Information Security**: Designing secure systems and learning about cryptographic protocols.
-
----
+## Work Experience
+**ML Intern @ Madhya Pradesh State Electronics Development Corp. (_May 2024 - June 2024_)**
+- Analyzed family registration data to integrate registration processes with the state government’s Single-Citizen Database (Samagra ID) for ~24 million   registered citizens.
+- Implemented video-based KYC for the ongoing Samagra e-KYC project using machine learning in Python.
+- Assisted with automating state and national ID linking for state citizens.
 
 ## Projects
-
-Here are some of the projects I’ve worked on:
 
 - [**Ferric - Network Port Scanning CLI Tool**](https://github.com/ad1tya-rajan/Rust-Ferric-Port-Scanner)  
   Created a user-oriented, nmap-like CLI tool that scans network ports (TCP, HTTP, etc.) in Rust
@@ -26,10 +19,13 @@ Here are some of the projects I’ve worked on:
   Analyzed Rust networking documentation, crate management & production methods
   Understood fundamentals of networking & cybersecurity applications
 
+  ![Ferric](images/Ferric.png)
+
 - [**A-Star Search Algorithm Visualizer**](https://github.com/ad1tya-rajan/Rust-Ferric-Port-Scanner)
   Developed an interactive visualization tool for A* Search Pathfinding Algorithm in Python
   Recorded mouse events & built responsive UI elements with the Pygame library
 
+  ![Astar](images/Astar.png)
 ---
 
 ## Skills
