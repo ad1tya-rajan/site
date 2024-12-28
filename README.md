@@ -1,5 +1,3 @@
-# Aditya Rajan
-
 ### Statistics & Computer Science | AI/ML Enthusiast | Information Security
 
 Welcome to my portfolio! I’m a student passionate about building intelligent systems, solving complex data science problems, and learning more about AI/ML. Below, you’ll find my recent projects and ways to connect with me.
@@ -8,7 +6,7 @@ Welcome to my portfolio! I’m a student passionate about building intelligent s
 
 ## About Me
 
-![Aditya Rajan's Headshot](/images/headshot.jpg)
+[Headshot](/images/headshot.jpg)
 
 Hello! I’m Aditya, and I am currently studying Statistics & Computer Science. I have a strong mathematical foundation and experience in:
 
