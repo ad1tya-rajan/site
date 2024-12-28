@@ -6,7 +6,7 @@ Welcome to my portfolio! I’m a student passionate about building intelligent s
 
 ## About Me
 
-[Headshot](/images/headshot.jpg)
+![Headshot](/images/headshot.jpg)
 
 Hello! I’m Aditya, and I am currently studying Statistics & Computer Science. I have a strong mathematical foundation and experience in:
 
