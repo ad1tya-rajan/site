@@ -1,5 +1,5 @@
 # Site settings
-title: Aditya Rajan's Portfolio
+title: Aditya Rajan
 description: A portfolio showcasing my projects, skills, and interests.
 baseurl: "" # Leave this blank unless your site is in a subdirectory
 url: "https://adityarajan.github.io" # Replace with your GitHub Pages URL
@@ -19,5 +19,5 @@ plugins:
   - jekyll-seo-tag
 
 # Additional configuration
-markdown: kramdown
-highlighter: rouge
+#markdown: kramdown
+#highlighter: rouge
