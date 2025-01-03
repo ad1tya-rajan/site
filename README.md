@@ -1,18 +1,18 @@
-<h2 style="color: lightblue;">About Me</h2>
+<h2 style="color: #3b6694;">About Me</h2>
 
 Hello! I’m Aditya, a sophomore at UIUC studying Statistics & CS. I'm passionate about building intelligent systems, solving complex data problems, and learning about the applications of AI/ML in medicine and biology. 
 
-## Education
+<h2 style="color: #3b6694;">Education</h2>
 B.S. Statistics and Computer Science, University of Illinois at Urbana-Champaign (_Expected May 2026_)
 
-## Work Experience
+<h2 style="color: #3b6694;">Work Experience</h2>
 **ML Intern @ Madhya Pradesh State Electronics Development Corp. (_May 2024 - June 2024_)**
 - Analyzed family registration data to integrate registration processes with the state government’s Single-Citizen Database (Samagra ID) for ~24 million   registered citizens.
 - Implemented video-based KYC for the ongoing Samagra e-KYC project using PyTorch.
 - Assisted with automating state and national ID linking for state citizens.
 - Learnt about internal ticketing software and procedures.
 
-## Projects
+<h2 style="color: #3b6694;">Projects</h2>
 
 [**Ferric - Network Port Scanning CLI Tool**](https://github.com/ad1tya-rajan/Rust-Ferric-Port-Scanner)
 
@@ -32,7 +32,7 @@ B.S. Statistics and Computer Science, University of Illinois at Urbana-Champaign
   ![Astar](images/AStar.png)
 ---
 
-## Skills
+<h2 style="color: #3b6694;">Skills</h2>
 
 - **Programming Languages**: C++, Python, Rust
 - **Frameworks and Tools**: PyTorch, TensorFlow, NumPy, Tokio, Clap
@@ -41,7 +41,7 @@ B.S. Statistics and Computer Science, University of Illinois at Urbana-Champaign
 
 ---
 
-## Contact Me
+<h2 style="color: #3b6694;">Contact Me</h2>
 
 Feel free to reach out if you’d like to collaborate or discuss interesting ideas:
 
