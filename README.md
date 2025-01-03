@@ -1,4 +1,4 @@
-## About Me
+<h2 style="color: lightblue;">About Me</h2>
 
 Hello! I’m Aditya, a sophomore at UIUC studying Statistics & CS. I'm passionate about building intelligent systems, solving complex data problems, and learning about the applications of AI/ML in medicine and biology. 
 
