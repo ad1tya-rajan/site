@@ -30,6 +30,20 @@ B.S. Statistics and Computer Science, University of Illinois at Urbana-Champaign
 - Recorded mouse events & built responsive UI elements with the Pygame library
 
   ![Astar](images/AStar.png)
+
+[**Real-time COVID-19 Facemask Detection Model**]((https://github.com/ad1tya-rajan/python-projects))
+  
+- Created a real-time COVID-19 facemask detection tool using webcam input and machine learning
+- Implemented the Support Vector Machines (SVM) machine learning algorithm with Scikit-Learn and achieved an accuracy of ~98%
+- Used OpenCV to handle computer vision, real-time webcam input and supplementary data collection
+
+[**Buffon's Needle Mathematical Puzzle Simulation**]((https://github.com/ad1tya-rajan/python-projects))
+  
+- Developed Python code to simulate Buffon's Needle (a mathematical problem used to approximate the value of pi)
+- Calculated optimal randomisation strategies for 'needle tossing' to effectively simulate the problem
+- Created responsive UI elements to display needle tosses, track observed values of pi and show convergence to the true value of pi
+
+  
 ---
 
 <h2 style="color: #3b6694;">Skills</h2>
