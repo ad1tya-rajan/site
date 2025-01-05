@@ -2,6 +2,8 @@
 
 Hello! I’m Aditya, a sophomore at UIUC studying Statistics & CS. I'm passionate about building intelligent systems, solving complex data problems, and learning about the applications of AI/ML in medicine and biology. 
 
+Please find out more through [my resume.](images/Aditya_Rajan_Resume_Sp_2025.pdf)
+
 <h2 style="color: #3b6694;">Education</h2>
 B.S. Statistics and Computer Science, University of Illinois at Urbana-Champaign (_Expected May 2026_)
 
@@ -34,7 +36,7 @@ B.S. Statistics and Computer Science, University of Illinois at Urbana-Champaign
 [**Real-time COVID-19 Facemask Detection Model**](https://github.com/ad1tya-rajan/python-projects)
   
 - Created a real-time COVID-19 facemask detection tool using webcam input and machine learning
-- Implemented the Support Vector Machines (SVM) machine learning algorithm with Scikit-Learn and achieved an accuracy of ~98%
+- Implemented the Support Vector Machines (SVM) machine learning algorithm with Scikit-Learn and achieved an accuracy of 96.2%
 - Used OpenCV to handle computer vision, real-time webcam input and supplementary data collection
 
   ![Facemask](images/facemask.jpg)
