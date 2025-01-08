@@ -2,7 +2,7 @@
 
 Hello! I’m Aditya, a sophomore at UIUC studying Statistics & CS. I'm passionate about building intelligent systems, solving complex data problems, and learning about the applications of AI/ML in medicine and biology. 
 
-Please find out more through [my resume.](images/resume_with_link.pdf)
+Please find out more through [my resume.](images/resume.pdf)
 
 <h2 style="color: #3b6694;">Education</h2>
 B.S. Statistics and Computer Science, University of Illinois at Urbana-Champaign (_Expected May 2026_)
