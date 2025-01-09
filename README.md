@@ -21,7 +21,9 @@ B.S. Statistics and Computer Science, University of Illinois at Urbana-Champaign
 - Engineered a data analysis pipeline (processing, feature extraction, EDA) for a dataset of 340,000+ gRNA sequences, extracting relevant features (e.g., GC 
   content, sequence length, Levenshtein distance) to optimise model performance
 - Developed and evaluated predictive machine learning models (Logistic Regression, XGBoost), achieving ROC-AUC scores exceeding 93%
-- Implemented sequence-to-numeric transformations (one-hot encoding) to retain critical sequence information for ML applications 
+- Implemented sequence-to-numeric transformations (one-hot encoding) to retain critical sequence information for ML applications
+
+  ![CRISPR-ML](images/crispr.jpg)
 
 [**Ferric - Network Port Scanning CLI Tool**](https://github.com/ad1tya-rajan/Rust-Ferric-Port-Scanner)
 
