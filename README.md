@@ -64,9 +64,9 @@ B.S. Statistics and Computer Science, University of Illinois at Urbana-Champaign
 <h2 style="color: #3b6694;">Skills</h2>
 
 - **Programming Languages**: C++, Python, Rust
-- **Frameworks and Tools**: PyTorch, TensorFlow, NumPy, Tokio, Clap
+- **Frameworks and Tools**: PyTorch, TensorFlow, Scikit-learn, NumPy, Pandas
 - **Mathematical Experience**: Multivariable Calculus, Linear Algebra, Statistical Analysis
-- **Other Interests**: Computational Biology, Bioinformatics, ML in Information Security
+- **Other Interests**: Cybersecurity, Creative Writing, Music
 
 ---
 
