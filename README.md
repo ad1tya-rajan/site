@@ -1,13 +1,13 @@
-<nav style="background-color: #f8f9fa; padding: 15px 0; position: sticky; top: 0; z-index: 1000; display: flex; justify-content: center; border-bottom: 1px solid #ddd; font-size: 1.0em;">
-    <a href="#about" style="text-decoration: none; margin: 0 15px; color: #3b6694; font-weight: bold;">About Me</a>
+<nav style="background-color: #f8f9fa; padding: 10px 0; position: sticky; top: 0; z-index: 1000; display: flex; justify-content: center; border-bottom: 1px solid #ddd; font-size: 1.0em;">
+    <a href="#about" style="text-decoration: none; margin: 0 10px; color: #3b6694; font-weight: bold;">About Me</a>
     <span style="color: #ccc;">|</span>
-    <a href="#education" style="text-decoration: none; margin: 0 15px; color: #3b6694; font-weight: bold;">Education</a>
+    <a href="#education" style="text-decoration: none; margin: 0 10px; color: #3b6694; font-weight: bold;">Education</a>
     <span style="color: #ccc;">|</span>
-    <a href="#experience" style="text-decoration: none; margin: 0 15px; color: #3b6694; font-weight: bold;">Experience</a>
+    <a href="#experience" style="text-decoration: none; margin: 0 10px; color: #3b6694; font-weight: bold;">Experience</a>
     <span style="color: #ccc;">|</span>
-    <a href="#projects" style="text-decoration: none; margin: 0 15px; color: #3b6694; font-weight: bold;">Projects</a>
+    <a href="#projects" style="text-decoration: none; margin: 0 10px; color: #3b6694; font-weight: bold;">Projects</a>
     <span style="color: #ccc;">|</span>
-    <a href="#contact" style="text-decoration: none; margin: 0 15px; color: #3b6694; font-weight: bold;">Contact Me</a>
+    <a href="#contact" style="text-decoration: none; margin: 0 10px; color: #3b6694; font-weight: bold;">Contact Me</a>
 </nav>
 
 <h2 id = "about" style="color: #3b6694;">About Me</h2>
