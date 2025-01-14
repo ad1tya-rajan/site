@@ -1,15 +1,10 @@
-<header style="background-color: #f8f9fa; padding: 10px 20px; position: sticky; top: 0; z-index: 1000; border-bottom: 1px solid #ddd;">
-  <nav style="display: flex; justify-content: space-between; align-items: center;">
-    <h1 style="margin: 0; font-size: 1.5em;">My Portfolio</h1>
-    <div>
-      <a href="#about" style="text-decoration: none; margin: 0 10px; color: #007bff; font-weight: bold;">About Me</a>
-      <a href="#education" style="text-decoration: none; margin: 0 10px; color: #007bff; font-weight: bold;">Education</a>
-      <a href="#work" style="text-decoration: none; margin: 0 10px; color: #007bff; font-weight: bold;">Work Experience</a>
-      <a href="#projects" style="text-decoration: none; margin: 0 10px; color: #007bff; font-weight: bold;">Projects</a>
-      <a href="#contact" style="text-decoration: none; margin: 0 10px; color: #007bff; font-weight: bold;">Contact Me</a>
-    </div>
-  </nav>
-</header>
+<div class="navbar">
+    <a href="#about">About Me</a>
+    <a href="#education">Education</a>
+    <a href="#experience">Experience</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact Me</a>
+</div>
 
 <h2 id = "about" style="color: #3b6694;">About Me</h2>
 
