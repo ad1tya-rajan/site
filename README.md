@@ -1,4 +1,4 @@
-<nav style="background-color: #f8f9fa; padding: 15px 0; position: sticky; top: 0; z-index: 1000; display: flex; justify-content: center; border-bottom: 1px solid #ddd; font-size: 1.2em;">
+<nav style="background-color: #f8f9fa; padding: 15px 0; position: sticky; top: 0; z-index: 1000; display: flex; justify-content: center; border-bottom: 1px solid #ddd; font-size: 1.0em;">
     <a href="#about" style="text-decoration: none; margin: 0 15px; color: #3b6694; font-weight: bold;">About Me</a>
     <span style="color: #ccc;">|</span>
     <a href="#education" style="text-decoration: none; margin: 0 15px; color: #3b6694; font-weight: bold;">Education</a>
