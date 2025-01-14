@@ -11,23 +11,23 @@
   </nav>
 </header>
 
-<h2 id = "about", style="color: #3b6694;">About Me</h2>
+<h2 id = "about" style="color: #3b6694;">About Me</h2>
 
 Hello! I’m Aditya, a sophomore at UIUC studying Statistics & CS. I'm passionate about building intelligent systems, solving complex data problems, and learning about the applications of AI/ML in medicine and biology. 
 
 Please find out more through [my resume.](images/resume.pdf)
 
-<h2 id = "education", style="color: #3b6694;">Education</h2>
+<h2 id = "education" style="color: #3b6694;">Education</h2>
 B.S. Statistics and Computer Science, University of Illinois at Urbana-Champaign (_Expected May 2026_)
 
-<h2 id = "work", style="color: #3b6694;">Work Experience</h2>
+<h2 id = "work" style="color: #3b6694;">Work Experience</h2>
 **ML Intern @ Madhya Pradesh State Electronics Development Corp. (_May 2024 - June 2024_)**
 - Analyzed family registration data to integrate registration processes with the state government’s Single-Citizen Database (Samagra ID) for ~24 million   registered citizens.
 - Implemented video-based KYC for the ongoing Samagra e-KYC project using PyTorch.
 - Assisted with automating state and national ID linking for state citizens.
 - Learnt about internal ticketing software and procedures.
 
-<h2 id = "projects", style="color: #3b6694;">Projects</h2>
+<h2 id = "projects" style="color: #3b6694;">Projects</h2>
 
 [**CRISPR-Cas9 Off-Target Prediction**](https://github.com/ad1tya-rajan/CRISPR-ML)
 
@@ -83,7 +83,7 @@ B.S. Statistics and Computer Science, University of Illinois at Urbana-Champaign
 
 ---
 
-<h2 id = "contact", style="color: #3b6694;">Contact Me</h2>
+<h2 id = "contact" style="color: #3b6694;">Contact Me</h2>
 
 Feel free to reach out if you’d like to collaborate or discuss interesting ideas:
 
