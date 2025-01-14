@@ -1,26 +1,39 @@
-<h2 style="color: #3b6694;">About Me</h2>
+<header style="background-color: #f8f9fa; padding: 10px 20px; position: sticky; top: 0; z-index: 1000; border-bottom: 1px solid #ddd;">
+  <nav style="display: flex; justify-content: space-between; align-items: center;">
+    <h1 style="margin: 0; font-size: 1.5em;">My Portfolio</h1>
+    <div>
+      <a href="#about" style="text-decoration: none; margin: 0 10px; color: #007bff; font-weight: bold;">About Me</a>
+      <a href="#education" style="text-decoration: none; margin: 0 10px; color: #007bff; font-weight: bold;">Education</a>
+      <a href="#work" style="text-decoration: none; margin: 0 10px; color: #007bff; font-weight: bold;">Work Experience</a>
+      <a href="#projects" style="text-decoration: none; margin: 0 10px; color: #007bff; font-weight: bold;">Projects</a>
+      <a href="#contact" style="text-decoration: none; margin: 0 10px; color: #007bff; font-weight: bold;">Contact Me</a>
+    </div>
+  </nav>
+</header>
+
+<h2 id = "about", style="color: #3b6694;">About Me</h2>
 
 Hello! I’m Aditya, a sophomore at UIUC studying Statistics & CS. I'm passionate about building intelligent systems, solving complex data problems, and learning about the applications of AI/ML in medicine and biology. 
 
 Please find out more through [my resume.](images/resume.pdf)
 
-<h2 style="color: #3b6694;">Education</h2>
+<h2 id = "education", style="color: #3b6694;">Education</h2>
 B.S. Statistics and Computer Science, University of Illinois at Urbana-Champaign (_Expected May 2026_)
 
-<h2 style="color: #3b6694;">Work Experience</h2>
+<h2 id = "work", style="color: #3b6694;">Work Experience</h2>
 **ML Intern @ Madhya Pradesh State Electronics Development Corp. (_May 2024 - June 2024_)**
 - Analyzed family registration data to integrate registration processes with the state government’s Single-Citizen Database (Samagra ID) for ~24 million   registered citizens.
 - Implemented video-based KYC for the ongoing Samagra e-KYC project using PyTorch.
 - Assisted with automating state and national ID linking for state citizens.
 - Learnt about internal ticketing software and procedures.
 
-<h2 style="color: #3b6694;">Projects</h2>
+<h2 id = "projects", style="color: #3b6694;">Projects</h2>
 
 [**CRISPR-Cas9 Off-Target Prediction**](https://github.com/ad1tya-rajan/CRISPR-ML)
 
 - Engineered a data analysis pipeline (processing, feature extraction, EDA) for a dataset of 340,000+ gRNA sequences, extracting relevant features (e.g., GC 
   content, sequence length, Levenshtein distance) to optimise model performance
-- Developed and evaluated baseline predictive machine learning models (Logistic Regression, XGBoost), achieving ROC-AUC scores exceeding 0.93 and a accuracies of ~98%
+- Developed and evaluated baseline predictive machine learning models (Logistic Regression, XGBoost), achieving ROC-AUC scores exceeding 0.93 and accuracies of ~98%
 - Created a modern transformer-based architecture to use Positional Encoding and Multi-Head Attention during gRNA sequence analysis
 - Implemented sequence-to-numeric transformations (one-hot encoding) to retain critical sequence information for ML applications
 
@@ -70,7 +83,7 @@ B.S. Statistics and Computer Science, University of Illinois at Urbana-Champaign
 
 ---
 
-<h2 style="color: #3b6694;">Contact Me</h2>
+<h2 id = "contact", style="color: #3b6694;">Contact Me</h2>
 
 Feel free to reach out if you’d like to collaborate or discuss interesting ideas:
 
