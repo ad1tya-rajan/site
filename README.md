@@ -3,7 +3,7 @@
     <span style="color: #ccc;">|</span>
     <a href="#education" style="text-decoration: none; margin: 0 10px; color: #3b6694; font-weight: bold;">Education</a>
     <span style="color: #ccc;">|</span>
-    <a href="#experience" style="text-decoration: none; margin: 0 10px; color: #3b6694; font-weight: bold;">Experience</a>
+    <a href="#work" style="text-decoration: none; margin: 0 10px; color: #3b6694; font-weight: bold;">Experience</a>
     <span style="color: #ccc;">|</span>
     <a href="#projects" style="text-decoration: none; margin: 0 10px; color: #3b6694; font-weight: bold;">Projects</a>
     <span style="color: #ccc;">|</span>
