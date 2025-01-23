@@ -19,7 +19,7 @@ Please find out more through [my resume.](images/resume.pdf)
 <h2 id = "education" style="color: #3b6694;">Education</h2>
 B.S. Statistics and Computer Science, University of Illinois at Urbana-Champaign (_Expected May 2026_)
 
-<h2 id = "work" style="color: #3b6694;">Work Experience</h2>
+<h2 id = "work" style="color: #3b6694;">Experience</h2>
 **ML Intern @ Madhya Pradesh State Electronics Development Corp. (_May 2024 - June 2024_)**
 - Analyzed family registration data to integrate registration processes with the state government’s Single-Citizen Database (Samagra ID) for ~24 million   registered citizens.
 - Implemented video-based KYC for the ongoing Samagra e-KYC project using PyTorch.
