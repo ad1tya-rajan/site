@@ -20,6 +20,11 @@ Please find out more through [my resume.](images/resume.pdf)
 B.S. Statistics and Computer Science, University of Illinois at Urbana-Champaign (_Expected May 2026_)
 
 <h2 id = "work" style="color: #3b6694;">Experience</h2>
+**Undergraduate Researcher (Computational Genomics) @ Alam Lab, University of Illinois at Urbana-Champaign (_January 2025 - Present_)**
+- Working on _S. pneumoniae_ & _S. aureus_ genome data analysis from High-Throughput Sequencing technologies.
+- Implementing large-scale data pipelines for FASTQ raw data and FASTA assembly data from international databases (SRA, NCBI, GenBank etc.).
+- Developing novel ML solutions to examine antibiotic resistance and virulence in pathogenic bacteria.
+
 **ML Intern @ Madhya Pradesh State Electronics Development Corp. (_May 2024 - June 2024_)**
 - Analyzed family registration data to integrate registration processes with the state government’s Single-Citizen Database (Samagra ID) for ~24 million   registered citizens.
 - Implemented video-based KYC for the ongoing Samagra e-KYC project using PyTorch.
