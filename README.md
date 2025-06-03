@@ -20,6 +20,7 @@ Please find out more through [my resume.](images/resume.pdf)
 B.S. Statistics and Computer Science, University of Illinois at Urbana-Champaign (_Expected May 2026_)
 
 <h2 id = "work" style="color: #3b6694;">Experience</h2>
+
 **Undergraduate Research Intern @ IDiA (Integrated Diagnostics and Analytics) Lab, University of Wisconsin-Madison (_June 2025 - Present_)**
 - Working on algorithmic ischemic stroke lesion segmentation using novel ML models like Swin transformers.
 - Implementing preprocessing strategies for MRI modalities (T1-weighted, FLAIR, DWI, etc.).
