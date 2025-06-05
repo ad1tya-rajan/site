@@ -12,12 +12,12 @@
 
 <h2 id = "about" style="margin-top: 20px; color: #3b6694;">About Me</h2>
 
-Hello! I’m Aditya, a sophomore at UIUC studying Statistics & CS. I'm passionate about building intelligent systems, solving complex data problems, and learning about the applications of AI/ML in medicine and biology. 
+Hello! I’m Aditya, a sophomore at UIUC studying Statistics & CS. I'm passionate about building intelligent systems, solving complex data problems, and learning about the applications of AI/ML in medicine and healthcare. 
 
 Please find out more through [my resume.](images/resume.pdf)
 
 <h2 id = "education" style="color: #3b6694;">Education</h2>
-B.S. Statistics and Computer Science, University of Illinois at Urbana-Champaign (_Expected May 2026_)
+B.S. Statistics and Computer Science, Minor in Mathematics, University of Illinois at Urbana-Champaign (_Expected May 2026_)
 
 <h2 id = "work" style="color: #3b6694;">Experience</h2>
 
