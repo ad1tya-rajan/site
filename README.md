@@ -14,17 +14,17 @@
 
 Hello! I’m Aditya, a sophomore at UIUC studying Statistics & CS. I'm passionate about building intelligent systems, solving complex data problems, and learning about the applications of AI/ML in medicine and healthcare. 
 
-Please find out more through [my resume.](images/resume.pdf)
+Please find out more through [my resume.](images/updated_resume.pdf)
 
 <h2 id = "education" style="color: #3b6694;">Education</h2>
 B.S. Statistics and Computer Science, Minor in Mathematics, University of Illinois at Urbana-Champaign (_Expected May 2026_)
 
 <h2 id = "work" style="color: #3b6694;">Experience</h2>
 
-**Undergraduate Research Intern @ IDiA (Integrated Diagnostics and Analytics) Lab, University of Wisconsin-Madison (_June 2025 - Present_)**
+**Undergraduate Research Intern @ IDiA Lab, University of Wisconsin-Madison (_June 2025 - Present_)**
 - Working on algorithmic ischemic stroke lesion segmentation using novel ML models like Swin transformers.
 - Implementing preprocessing strategies for MRI modalities (T1-weighted, FLAIR, DWI, etc.).
-- Optimizing parameters and hyperparameters for stroke lesion segmentation tasks.
+- Exploring domain-agnostic MRI data augmentation approaches using physics-based generative ML models.
 
 **Undergraduate Researcher (Computational Genomics) @ Alam Lab, University of Illinois at Urbana-Champaign (_January 2025 - Present_)**
 - Working on _S. pneumoniae_ & _S. aureus_ genome data analysis from High-Throughput Sequencing technologies.
