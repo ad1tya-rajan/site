@@ -14,7 +14,7 @@
 
 Hello! I’m Aditya, a sophomore at UIUC studying Statistics & CS. I'm passionate about building intelligent systems, solving complex data problems, and learning about the applications of AI/ML in medicine and healthcare. 
 
-Please find out more through [my resume.](images/updated_resume.pdf)
+Please find out more through [my resume.](images/Aditya_Rajan_Resume_Fa25.pdf)
 
 <h2 id = "education" style="color: #3b6694;">Education</h2>
 B.S. Statistics and Computer Science, Minor in Mathematics, University of Illinois at Urbana-Champaign (_Expected May 2026_)
